@@ -1,0 +1,544 @@
+name,city,state,zip,cases,deaths
+Crowne Health Care nursing home,Mobile,Alabama,36605,98,13
+Arbor Springs Health and Rehab Center,Opelika,Alabama,36801,95,15
+Sapphire Nursing and Rehab,Tucson,Arizona,85714,94,0
+Briarwood Nursing and Rehabilitation,Little Rock,Arkansas,72205,60,5
+Walnut Ridge Nursing and Rehab Center,Walnut Ridge,Arkansas,72476,79,4
+The Waters of White Hall rehabilitation center,White Hall,Arkansas,71602,62,10
+Kingston Healthcare Center,Bakersfield,California,93309,84,1
+Bell Convalescent Hospital,Bell,California,90201,73,25
+Alameda Care Center,Burbank,California,91506,85,16
+Burbank Healthcare and Rehabilitation Center,Burbank,California,91506,78,6
+East Bay Post-Acute nursing home,Castro Valley,California,94546,50,1
+Reche Canyon Regional Rehab Center,Colton,California,92324,56,1
+Monte Vista Healthcare Center,Duarte,California,91010,60,6
+Gardena Convalescent Center,Gardena,California,90247,53,6
+Kei-Ai Los Angeles Healthcare Center,Los Angeles,California,90031,77,11
+Kei-Ai South Bay Healthcare Center,Gardena,California,90031,83,13
+Montrose Health Center nursing home,Glendale,California,91020,52,6
+Autumn Hills Health Care Center,Glendale,California,91206,65,5
+Century Villa nursing home,Inglewood,California,90302,51,9
+Brier Oak on Sunset nursing home,Los Angeles,California,90027,151,4
+Grand Park Convalescent Hospital,Los Angeles,California,90057,85,24
+Alden Terrace Convalescent Hospital,Los Angeles,California,90006,119,21
+Silverado Beverly Place Memory Care Community,Los Angeles,California,90048,75,12
+Windsor Care Center of Cheviot Hills,Los Angeles,California,90034,64,3
+Lynwood Healthcare Center nursing home,Lynwood,California,90262,64,10
+El Rancho Vista Healthcare,Pico Rivera,California,90660,61,8
+Magnolia Rehabilitation and Nursing Center ,Riverside,California,92504,75,0
+Extended Care Hospital nursing home,Riverside,California,92504,70,0
+Central Gardens nursing home,San Francisco,California,94115,62,1
+Valley House Rehabilitation Center,Santa Clara,California,95054,63,1
+South Pasadena Care Center nursing home,South Pasadena,California,91030,107,13
+New Vista Nursing and Rehabilitation Center,Sunland,California,91040,82,8
+Cedar Crest Nursing and Rehabilitation Center,Sunnyvale,California,94087,57,0
+The Grove Post-Acute Care Center,Sylmar,California,91342,60,12
+Sylmar Health and Rehabilitation Center ,Sylmar,California,91342,54,0
+Torrance Care Center West nursing home,Torrance,California,90503,71,13
+The Earlwood Center nursing home,Torrance,California,90503,55,8
+Windsor Terrace Healthcare Center,Van Nuys,California,91405,58,7
+Redwood Springs nursing home,Visalia,California,93292,174,28
+Stollwood Convalescent Hospital,Woodland,California,95695,55,14
+Cherry Creek Nursing Center,Aurora,Colorado,80014,124,30
+Juniper Village at Aurora Memory Care,Aurora,Colorado,80012,72,10
+Boulder Manor nursing home,Boulder,Colorado,80303,65,7
+Eben Ezer Lutheran Care Center nursing home,Brush,Colorado,80723,64,12
+Orchard Park Health Care Center,Centennial,Colorado,80121,86,4
+Laurel Manor Care Center nursing home,Colorado Springs,Colorado,80910,64,12
+Forest Street Compassionate Care Center nursing home,Denver,Colorado,80207,69,6
+ManorCare Health Services,Denver,Colorado,80224,68,7
+Jewell Care Center nursing home,Denver,Colorado,80222,75,7
+Holly Heights Care Center nursing home,Denver,Colorado,80222,51,14
+Julia Temple Healthcare Center nursing home,Englewood,Colorado,80113,61,14
+Centennial Healthcare Center nursing home,Greeley,Colorado,80634,88,20
+Fairacres Manor nursing home,Greeley,Colorado,80631,86,14
+Good Samaritan Society - Bonell Community assisted living facility,Greeley,Colorado,80631,54,7
+Sierra Rehabilitation and Care Community,Lakewood,Colorado,80214,69,11
+Cherrelyn Healthcare Center,Littleton,Colorado,80120,51,6
+The Peaks Care Center nursing home,Longmont,Colorado,80501,71,11
+Columbine Manor Care Center nursing home,Salida,Colorado,81201,58,12
+Mountain Vista Senior Living Community,Wheat Ridge,Colorado,80033,52,8
+Touchpoints at Bloomfield nursing home,Bloomfield,Connecticut,6002,51,13
+Branford Hills Health Care Center,Branford,Connecticut,6405,91,11
+Sheriden Woods Health Care Center nursing home,Bristol,Connecticut,6010,73,29
+Autumn Lake Healthcare skilled nursing facility,Cromwell,Connecticut,6416,54,4
+Saint John Paul II Center nursing home,Danbury,Connecticut,6810,76,30
+Riverside Health and Rehabilitation Center,East Hartford,Connecticut,6108,104,47
+Whispering Pines Rehabilitation and Nursing Center,East Haven,Connecticut,6512,52,24
+Parkway Pavilion Health and Rehabilitation Center,Enfield,Connecticut,6082,93,18
+Touchpoints at Farmington nursing home,Farmington,Connecticut,6032,80,16
+Arden House nursing home,Hamden,Connecticut,6514,69,12
+Whitney Rehabilitation Care Center,Hamden,Connecticut,6517,60,7
+Trinity Hill Care Center skilled nursing facility,Hartford,Connecticut,6106,62,7
+Chelsea Place Care Center rehabilitation facility,Hartford,Connecticut,6105,62,24
+Parkville Care Center nursing home,Hartford,Connecticut,6106,60,7
+Silver Springs Care Center nursing home,Meriden,Connecticut,6450,55,3
+Golden Hill Rehab Pavilion,Milford,Connecticut,6460,82,23
+Milford Health and Rehabilitation Center,Milford,Connecticut,6460,73,19
+Autumn Lake Healthcare skilled nursing facility,New Britain,Connecticut,6053,67,6
+Grimes Center rehabilitation facility,New Haven,Connecticut,6511,58,3
+Newington Rapid Recovery Rehab Center,Newington,Connecticut,6111,71,20
+Bride Brook Health and Rehabilitation Center,Niantic,Connecticut,6357,96,7
+Montowese Health and Rehabilitation Center,North Haven,Connecticut,6473,78,10
+Autumn Lake Healthcare skilled nursing facility,Norwalk,Connecticut,6851,56,21
+Cassena Care skilled nursing facility,Norwalk,Connecticut,6850,63,11
+Apple Rehab nursing home,Rocky Hill,Connecticut,6067,74,17
+Shady Knoll Health Center,Seymour,Connecticut,6483,73,29
+Gardner Heights Health Care Center,Shelton,Connecticut,6484,60,21
+Apple Rehab Shelton Lakes rehabilitation facility,Shelton,Connecticut,6484,50,15
+Cassena Care nursing home,Stamford,Connecticut,6902,72,16
+Lord Chamberlain Nursing Home and Rehabilitation Center,Stratford,Connecticut,6614,58,29
+The Suffield House nursing home,Suffield,Connecticut,6078,50,16
+Litchfield Woods Health Care Center,Torrington,Connecticut,6790,126,30
+Valerie Manor nursing home,Torrington,Connecticut,6790,59,12
+St. Joseph's Center senior living facility,Trumbull,Connecticut,6611,92,23
+Maefair Health Care Center nursing home,Trumbull,Connecticut,6611,65,14
+Fox Hill Center nursing home,Vernon,Connecticut,6066,57,10
+Quinnipiac Valley Center nursing home,Wallingford,Connecticut,6492,55,7
+Regency House Nursing and Rehabilitation Center,Wallingford,Connecticut,6492,64,19
+Abbott Terrace Health Center,Waterbury,Connecticut,6702,121,38
+New London Rehab and Care nursing home,Waterford,Connecticut,6385,74,1
+Apple Rehab nursing home,West Haven,Connecticut,6516,57,7
+Kimberly Hall North nursing facility,Windsor,Connecticut,6095,85,35
+Windsor Health and Rehabilitation Center,Windsor,Connecticut,6095,54,20
+Kimberly Hall South nursing home,Windsor,Connecticut,6095,65,12
+The Willows nursing home,Woodbridge,Connecticut,6525,59,16
+Transitions Healthcare Capitol City rehabilitation facility,Washington,District of Columbia,20020,57,1
+Regents Park nursing home,Aventura,Florida,33180,59,7
+Braden River Rehabilitation Center,Bradenton,Florida,34208,72,14
+Manatee Springs Rehabilitation and Nursing Center,East Bradenton,Florida,34203,69,5
+Manor Pines Convalescent Center,Fort Lauderdale,Florida,33305,86,16
+Fort Myers Rehabilitation and Nursing Center,Fort Myers,Florida,33907,70,0
+Governors Creek Health and Rehabilitation ,Green Cove Springs,Florida,32043,50,5
+Signature Healthcare Center of Waterford nursing home,Hialeah Gardens,Florida,33016,76,10
+Highlands Lake Center senior care,Lakeland,Florida,33813,85,12
+NSpire Healthcare Lauderhill nursing home,Lauderhill,Florida,33313,58,1
+Suwannee Health and Rehabilitation,Live Oak,Florida,32064,75,18
+Miami Jewish Health nursing home,Miami,Florida,33137,99,8
+Unity Health And Rehabilitation Center,Miami,Florida,33142,66,7
+Miami Shores Nursing and Rehab Center,Miami,Florida,33150,53,7
+Fountain Manor Health and Rehabilitation Center,Miami,Florida,33161,58,8
+Claridge House nursing home,North Miami,Florida,33161,62,11
+Sinai Plaza Rehabilitation and Skilled Nursing,Miami,Florida,33161,69,7
+Fair Havens Center nursing home,Miami Springs,Florida,33166,128,8
+North Dade Nursing And Rehabilitation Center,North Miami,Florida,33161,58,3
+Heartland Health Care Center nursing home,Orange Park,Florida,32073,63,4
+Opis Coquina Center nursing home,Ormond Beach,Florida,32174,57,9
+Riviera Palms Rehabilitation Center,Palmetto,Florida,34221,73,9
+Southern Oaks Care Center skilled nursing,Pensacola,Florida,32502,113,4
+Bayside Health and Rehabilitation Center,Pensacola,Florida,32504,58,0
+Community Convalescent Center,Plant City,Florida,33563,82,0
+Solaris Healthcare rehabilitation center,Port Charlotte,Florida,33980,50,1
+Seminole Pavilion Rehabilitation and Nursing Services,Seminole,Florida,33772,88,14
+Tallahassee Developmental Center intermediate care facility,Tallahassee,Florida,32304,77,8
+The Bristol at Tampa Rehabilitation and Nursing Center,Tampa,Florida,33612,117,10
+PruittHealth Palmyra nursing home,Albany,Georgia,31702,172,21
+Wynfield Park Health and Rehabilitation,Albany,Georgia,31701,92,14
+PruittHealth Ashburn nursing home,Ashburn,Georgia,31714,54,11
+Legacy Transitional Care & Rehabilitation,Atlanta,Georgia,30312,124,10
+Arbor Terrace at Cascade senior living facility,Atlanta,Georgia,30331,88,17
+Summerset assisted living facility,Atlanta,Georgia,30331,67,0
+Signature HealthCARE of Buckhead nursing home,Atlanta,Georgia,30309,69,1
+Sandy Springs Health and Rehabilitation Center,Atlanta,Georgia,30319,66,7
+Sadie G. Mays Health and Rehabilitation Center,Atlanta,Georgia,30314,125,2
+Windermere Health and Rehabilitation Center,Augusta,Georgia,30909,109,6
+PruittHealth Austell nursing home,Austell,Georgia,30106,82,0
+Appling Nursing and Rehabilitation Pavilion,Baxley,Georgia,31513,79,9
+Early Memorial Nursing Facility,Blakely,Georgia,39823,63,18
+Calhoun Health Care Center,Calhoun,Georgia,30701,63,9
+Canton Nursing Center,Canton,Georgia,30114,51,4
+Carrollton Manor nursing home,Carrollton,Georgia,30117,56,7
+Townsend Park Health and Rehabilitation nursing home,Cartersville,Georgia,30120,72,10
+Joe-Anne Burgin Nursing Home,Cuthbert,Georgia,39840,80,15
+Dawson Health and Rehabilitation,Dawson,Georgia,39842,65,14
+The Phoenix at Lake Lanier assisted living facility,Gainesville,Georgia,30501,51,3
+Brightmoor Nursing Center and Senior Living,Griffin,Georgia,30223,86,14
+Westbury Medical Care and Rehabilitation,Jackson,Georgia,30233,126,20
+Jonesboro Nursing and Rehabilitation Center,Jonesboro,Georgia,30236,76,3
+Life Care Center of Gwinnett nursing home,Lawrenceville,Georgia,30044,61,12
+PruittHealth Lilburn nursing home,Lilburn,Georgia,30047,76,11
+PruittHealth Macon nursing home,Macon,Georgia,31204,99,3
+PruittHealth Marietta nursing home,Marietta,Georgia,30008,103,4
+Roselane Health & Rehabilitation,Marietta,Georgia,30064,63,6
+Bostick Nursing Center,Milledgeville,Georgia,31061,75,6
+Pelham Parkway nursing home,Pelham,Georgia,31779,62,14
+Crossview Care Center nursing home,Pineview,Georgia,31071,81,8
+Powder Springs Transitional Care and Rehab,Powder Springs,Georgia,30127,64,1
+Riverdale Center for Nursing and Healing,Riverdale,Georgia,30274,61,4
+Rome Health and Rehabilitation Center,Rome,Georgia,30165,61,4
+Providence Healthcare nursing home,Thomaston,Georgia,30286,85,10
+Harborview Health Systems nursing home,Thomaston,Georgia,30286,54,15
+Briarwood Health and Rehab Center,Tucker,Georgia,30084,67,4
+Meadowbrook Health and Rehab,Tucker,Georgia,30084,66,7
+Christian City Skilled Nursing and Rehabilitation,Union City,Georgia,30291,68,8
+Four Fountains nursing home,Belleville,Illinois,62220,61,12
+Symphony Northwoods skilled nursing,Belvidere,Illinois,61008,55,8
+Meadowbrook Manor of Bolingbrook,Bolingbrook,Illinois,60440,173,26
+Bria of River Oaks skilled nursing and rehabilitation,Burnham,Illinois,60633,56,0
+Carlyle Healthcare Center,Carlyle,Illinois,62231,67,7
+Windsor Park Manor retirement community,Carol Stream,Illinois,60188,118,21
+Covenant Living at Windsor Park long-term care,Carol Stream,Illinois,60188,84,19
+Woodbridge Nursing Pavilion,Chicago,Illinois,60647,183,17
+Bria of Forest Edge skilled nursing and rehabilitation,Chicago,Illinois,60620,132,1
+Mayfield Care Center nursing home,Chicago,Illinois,60644,119,6
+Symphony of Morgan Park rehabillitation center,Chicago,Illinois,60628,169,6
+Villa at Windsor Park nursing home,Chicago,Illinois,60649,106,14
+Elevate Care Chicago North rehabilitation center,Chicago,Illinois,60645,133,23
+Symphony at Midway rehabillitation center,Chicago,Illinois,60632,152,6
+Uptown Health Center rehabilitation center,Chicago,Illinois,60640,93,13
+Central Nursing Home,Chicago,Illinois,60639,80,14
+The Mosaic of Lakeshore rehabilitation facility,Chicago,Illinois,60626,61,14
+Fairmont Care rehabilitation center,Chicago,Illinois,60630,84,13
+Waterfront Terrace nursing home,Chicago,Illinois,60649,60,6
+Center Home for Hispanic Elderly,Chicago,Illinois,60622,57,22
+Symphony of South Shore nursing home,Chicago,Illinois,60649,51,6
+Beacon Care Center nursing home,Chicago,Illinois,60640,70,7
+MADO Healthcare Uptown nursing home,Chicago,Illinois,60640,50,3
+Symphony Lincoln Park nursing home,Chicago,Illinois,60614,82,7
+Ambassador Nursing and Rehabilitation Center,Chicago,Illinois,60625,100,7
+The Fountains at Crystal Lake senior living community,Crystal Lake,Illinois,60012,67,8
+Landmark of Des Plaines nursing home,Des Plaines,Illinois,60016,70,15
+Providence Healthcare & Rehabilitation Center,Downers Grove,Illinois,60515,58,8
+ManorCare Hinsdale,Hinsdale,Illinois,60521,147,19
+Symphony of Joliet nursing home,Joliet,Illinois,60435,127,24
+Presence Villa Franciscan nursing home,Joliet,Illinois,60435,58,12
+Alden Terrace of McHenry rehabilitation care,McHenry,Illinois,60050,123,6
+Alden Estates of Naperville rehabilitation center,Naperville,Illinois,60565,91,17
+Villa East senior care community,Sherman,Illinois,62684,96,11
+Tower Hill Healthcare Center,South Elgin,Illinois,60177,105,2
+Wauconda Care rehabilitation facility,Wauconda,Illinois,60084,61,14
+Wheaton Village Nursing and Rehabilitation Center,Wheaton,Illinois,60187,56,7
+Chateau Nursing and Rehabilitation Center,Willowbrook,Illinois,60521,58,11
+The Grove at the Lake nursing home,Zion,Illinois,60099,50,6
+Otterbein SeniorLife assisted living and skilled nursing,Franklin,Indiana,46131,62,12
+Providence - A Diversicare Transitional Care Community,New Albany,Indiana,47150,64,5
+Heritage Specialty Care nursing home,Cedar Rapids,Iowa,52404,113,14
+Living Center West nursing home,Cedar Rapids,Iowa,52403,53,0
+Trinity Center at Luther Park nursing home,Des Moines,Iowa,50316,73,0
+St. Francis Manor nursing home,Grinnell,Iowa,50112,69,0
+Bishop Drumm Retirement Center,Johnston,Iowa,50131,89,0
+Premier Estates of Toledo nursing home,Toledo,Iowa,52342,52,0
+Harmony House Health Care Center,Waterloo,Iowa,50701,62,0
+Clearwater Nursing and Rehabilitation Center,Clearwater,Kansas,67026,61,8
+Riverbend Post Acute Rehabilitation,Kansas City,Kansas,66112,132,36
+Brighton Gardens of Prairie Village assisted living facility,Prairie Village,Kansas,66208,68,10
+Signature Healthcare at Summit Manor Rehabilitation & Wellness Center,Columbia,Kentucky,42728,82,11
+Rosedale Green nursing home,Covington,Kentucky,41015,85,21
+Grayson Rehab and Nursing,Leitchfield,Kentucky,42754,59,5
+Treyton Oak Towers assisted living,Louisville,Kentucky,40203,50,15
+Louisville East Post Acute nursing home,Louisville,Kentucky,40220,62,1
+Ridgewood Terrace Nursing Home,Madisonville,Kentucky,42431,82,19
+Mills Health and Rehabilitation Center,Mayfield,Kentucky,42066,96,16
+Morgantown Care & Rehabilitation Center,Morgantown,Kentucky,42261,129,8
+River's Edge Nursing and Rehabilitation Center,Prospect,Kentucky,40059,93,7
+Augusta Center for Health and Rehabilitation,Augusta,Maine,4330,76,5
+FutureCare Chesapeake rehabilitation facility,Arnold,Maryland,21012,119,18
+FutureCare Lochearn nursing home,Baltimore,Maryland,21215,231,21
+Levindale Hebrew Geriatric Center and Hospital,Baltimore,Maryland,21215,90,6
+FutureCare Charles Village nursing home,Baltimore,Maryland,21218,78,7
+FutureCare Cold Spring nursing home,Baltimore,Maryland,21214,52,8
+ManorCare Health Services - Rossville nursing home,Baltimore,Maryland,21237,51,7
+Future Care Irvington,Baltimore,Maryland,21229,51,4
+Oakwood Care Center,Baltimore,Maryland,21220,61,1
+Bel Air Health and Rehabilitation Center,Bel Air,Maryland,21014,61,6
+Larkin Chase Center nursing home,Bowie,Maryland,20716,88,15
+Riderwood assisted living facility,Calverton,Maryland,20904,105,23
+Frederick Villa Nursing and Rehabilitation Center,Catonsville,Maryland,21228,103,11
+Autumn Lake Healthcare at Chestertown nursing home,Chestertown,Maryland,21620,68,15
+Clinton Nursing and Rehabilitation Center,Clinton,Maryland,20735,169,20
+Crofton Care and Rehabilitation Center,Crofton,Maryland,21114,50,9
+Fairfield Nursing and Rehabilitation Center,Crownsville,Maryland,21032,52,6
+Cumberland Healthcare Center,Cumberland,Maryland,21502,89,6
+South River Healthcare Center,Edgewater,Maryland,21037,69,10
+Ellicott City Healthcare Center nursing home,Ellicott City,Maryland,21043,135,11
+Forest Hill Health and Rehabilitation Center,Forest Hill,Maryland,21050,115,6
+Ballenger Creek nursing home,Frederick,Maryland,21701,128,14
+Northampton Manor Nursing and Rehabilitation Center,Frederick,Maryland,21701,68,7
+Wilson Health Care Center at Asbury Methodist Village,Gaithersburg,Maryland,20877,63,12
+Montgomery Village Health Care Center,Gaithersburg,Maryland,20879,62,9
+Waugh Chapel Center nursing home,Gambrills,Maryland,21054,57,6
+Kensington Healthcare Center nursing home,Kensington,Maryland,20895,66,2
+Sagepoint Nursing and Rehabilitation Center,La Plata,Maryland,20646,129,35
+Pleasant View Nursing Home,Mt. Airy,Maryland,21771,126,29
+Loch Raven Center nursing home,Parkville,Maryland,21234,88,8
+Autumn Lake Healthcare at Pikesville nursing home,Pikesville,Maryland,21208,67,3
+FutureCare Old Court nursing home,Randallstown,Maryland,21133,110,11
+Future Care Cherrywood,Reisterstown,Maryland,21136,86,6
+Calvert Manor Health Care Center,Rising Sun,Maryland,21911,76,12
+Rockville Nursing Home,Rockville,Maryland,20850,53,13
+Collingswood Rehabilitation and Healthcare Center,Rockville,Maryland,20850,68,14
+Brooke Grove Retirement Village,Sandy Spring,Maryland,20860,74,9
+Regency Care of Silver Spring nursing home,Silver Spring,Maryland,20910,84,12
+ManorCare Health Services - Silver Spring nursing home,Silver Spring,Maryland,20904,81,18
+Autumn Lake Healthcare at Oakview,Silver Spring,Maryland,20910,55,14
+Bel Pre Healthcare Center,Silver Spring,Maryland,20906,62,1
+Westminster Healthcare Center nursing home,Westminster,Maryland,21157,54,2
+Carroll Lutheran Village assisted living facility,Westminster,Maryland,21157,50,8
+ManorCare Health Services - Wheaton nursing home,Wheaton,Maryland,20902,68,5
+Soldiers' Home in Holyoke veterans center and hospital,Holyoke,Massachusetts,1040,161,73
+Life Care Center of Nashoba Valley,Littleton,Massachusetts,1460,81,10
+Life Care Center nursing home,Raynham,Massachusetts,2767,56,10
+MediLodge of Alpena nursing home,Alpena,Michigan,49707,51,0
+Glacier Hills senior living community,Ann Arbor,Michigan,48105,97,0
+Regency At Bluffs Park nursing home,Ann Arbor,Michigan,48103,50,0
+Lakepointe Senior Care and Rehab Center,Clinton Township,Michigan,48036,50,0
+Maple Woods Manor skilled nursing facility,Clio,Michigan,48420,50,17
+Imperial Healthcare Centre,Dearborn Heights,Michigan,48125,76,0
+Ambassador Nursing and Rehabilitation Center,Detroit,Michigan,48214,97,13
+Omni Continuing Care ,Detroit,Michigan,48213,85,12
+Fairlane Senior Care and Rehab Center ,Detroit,Michigan,48228,72,16
+OakPointe Senior Care and Rehab Center,Detroit,Michigan,48235,70,8
+Samaritan Manor Rehabilitation and Skilled Nursing,Detroit,Michigan,48213,66,0
+The Bay at Woodward Health and Rehabilitation Center,Detroit,Michigan,48202,60,3
+Boulevard Temple Care Center ,Detroit,Michigan,48208,57,15
+Riverview Health and Rehab Center North,Detroit,Michigan,48224,55,15
+Heritage Manor Nursing and Rehabilitation Center,Detroit,Michigan,48204,54,2
+The Villa at Great Lakes Crossing nursing home,Detroit,Michigan,48219,54,5
+Regency Post-Acute and Long-Term Care,Taylor,Michigan,48180,65,0
+West Bloomfield Health & Rehabilitation Center,West Bloomfield,Michigan,48322,56,0
+Westland Convalescent and Rehab Center ,Westland,Michigan,48185,68,0
+Saint Therese of New Hope nursing home,New Hope,Minnesota,55428,130,47
+Frontier Health and Rehabilitation,St. Charles,Missouri,63301,66,6
+The Heights of Summerlin skilled nursing,Las Vegas,Nevada,89144,121,5
+Horizon Health and Rehabilitation Center,Las Vegas,Nevada,89106,75,6
+Premier Health and Rehabilitation Center,Las Vegas,Nevada,89169,60,3
+Lakeside Health & Wellness Suites nursing home,Reno,Nevada,89509,86,19
+Preferred Care at Absecon rehabilitation and skilled nursing facility,Absecon,New Jersey,8201,104,5
+Allendale Community for Senior Living,Allendale,New Jersey,7401,77,21
+Andover Subacute and Rehabilitation Center II,Andover,New Jersey,7821,189,55
+Autumn Lake Healthcare at Berkeley Heights nursing home,Berkeley Heights,New Jersey,7922,51,15
+Crystal Lake Rehabilitation and Healthcare Center,Berkeley Township,New Jersey,8721,93,23
+Forest Manor Health Care Center,Blairstown,New Jersey,7844,97,16
+Job Haines Home senior care facility,Bloomfield,New Jersey,7003,52,13
+The Health Center at Bloomingdale nursing and rehabilitation facility,Bloomingdale,New Jersey,7403,53,15
+Complete Care at Shorrock Gardens nursing home,Brick Township,New Jersey,8723,95,27
+Hackensack Meridian Health Nursing & Rehab at Brick,Brick Township,New Jersey,8724,85,18
+Willow Springs Rehabilitation and Healthcare Center,Brick Township,New Jersey,8724,73,14
+Complete Care at Laurelton rehabilitation facility,Brick Township,New Jersey,8724,84,3
+Complete Care at Green Knoll rehabilitation facility,Bridgewater,New Jersey,8807,74,10
+Masonic Village senior care community,Burlington,New Jersey,8016,83,12
+Burlington Woods nursing home,Burlington,New Jersey,8016,92,7
+Marcella Center rehabilitation facility,Burlington Township,New Jersey,8016,102,29
+Abigail House for Nursing and Rehabilitation,Camden,New Jersey,8102,88,7
+Saint Joseph's Health Care and Rehab Center,Cedar Grove,New Jersey,7009,116,27
+Canterbury Care and Rehabilitation Center,Cedar Grove,New Jersey,7009,177,19
+Waterview Center nursing home,Cedar Grove,New Jersey,7009,88,22
+Alaris Health at Cedar Grove nursing home,Cedar Grove,New Jersey,7009,66,10
+Avista Healthcare nursing home,Cherry Hill,New Jersey,8002,58,17
+Premier Cadbury at Cherry Hill assisted living facility,Cherry Hill,New Jersey,8002,90,20
+AristaCare rehabilitation facility,Cherry Hill,New Jersey,8002,67,6
+Barclay's Rehabillitation and Healthcare Center,Cherry Hill,New Jersey,8034,50,10
+Clark Nursing and Rehabilitation Center,Clark,New Jersey,7066,95,20
+Daughters of Miriam nursing home,Clifton,New Jersey,7011,124,30
+Cranford Rehab and Nursing Center,Cranford,New Jersey,7016,151,49
+Cranford Park Rehabilitation and Health Care Center,Cranford,New Jersey,7016,56,15
+Atria Cranford assisted living,Cranford,New Jersey,7016,65,22
+CareOne at Cresskill rehabilitation facility,Cresskill,New Jersey,7626,75,8
+New Grove Manor Center for Rehabilitation and Nursing,East Orange,New Jersey,7017,100,19
+Park Crescent Healthcare and Rehabilitation Center,East Orange,New Jersey,7017,103,13
+Brookhaven Health Care Facility rehabilitation center,East Orange,New Jersey,7018,67,8
+Windsor Gardens Care Center nursing home,East Orange,New Jersey,7017,72,9
+Elmora Hills Healthcare and Rehabilitation Center,Elizabeth,New Jersey,7202,98,17
+Brother Bonaventure Extended Care and Rehabilitation Center,Elizabeth,New Jersey,7206,59,12
+Elizabeth Nursing and Rehabilitation Center,Elizabeth,New Jersey,7202,73,20
+Plaza Healthcare and Rehabilitation Center,Elizabeth,New Jersey,7202,65,23
+Emerson Health and Rehabilitation Center,Emerson,New Jersey,7630,108,16
+The Actors Fund Home assisted living facility,Englewood,New Jersey,7631,51,11
+Preferred Care at Mercer rehabilitation and skilled nursing facility,Ewing,New Jersey,8628,83,13
+Maple Glen Center nursing home,Fair Lawn,New Jersey,7410,110,25
+Hunterdon Care Center nursing home,Flemington,New Jersey,8822,93,12
+Willow Creek Rehabilitation and Care Center,Franklin Township,New Jersey,8873,67,14
+Royal Suites Healthcare and Rehabilitation Center,Galloway,New Jersey,8205,63,0
+Green Brook Regional geriatric center,Green Brook,New Jersey,8812,133,5
+Alaris Health at Boulevard East nursing home,Guttenberg,New Jersey,7093,59,11
+Hackensack Meridian Health Nursing and Rehab,Hackensack,New Jersey,7601,167,19
+Hackensack Meridian Health Prospect Heights Care Center,Hackensack,New Jersey,7601,128,10
+CareOne at Wellington nursing home,Hackensack,New Jersey,7601,114,29
+Hamilton Continuing Care Center,Hamilton,New Jersey,8690,100,28
+Mercerville Center nursing home,Hamilton,New Jersey,8619,78,9
+Hamilton Grove Healthcare and Rehabilitation Center,Hamilton,New Jersey,8619,74,10
+Hammonton Center for Rehabilitation and Nursing,Hammonton,New Jersey,8037,160,20
+Lakeland Health Care Center nursing home,Haskell,New Jersey,7420,112,30
+Foothill Acres Rehabilitation and Nursing Center,Hillsborough,New Jersey,8844,94,30
+Bartley Healthcare Nursing and Rehabilitation ,Jackson,New Jersey,8527,153,26
+Alaris Health at Hamilton Park nursing home,Jersey City,New Jersey,7302,124,18
+Alaris Health at HarborView nursing home,Jersey City,New Jersey,7307,76,20
+Alaris Health at Jersey City,Jersey City,New Jersey,7305,59,8
+Alaris Health at Kearny nursing home,Kearny,New Jersey,7032,68,16
+Leisure Chateau Care and Rehabilitation Center,Lakewood,New Jersey,8701,105,15
+Concord Healthcare and Rehabilitation Center,Lakewood,New Jersey,8701,50,11
+St. Josephs Skilled Nursing Center,Lawrence Township,New Jersey,8648,57,4
+Clover Meadows Healthcare and Rehab Center,Lawrenceville,New Jersey,8648,65,17
+AristaCare at Delaire rehabilitation center,Linden,New Jersey,7036,146,27
+Inglemoor Rehabilitation & Care Center,Livingston,New Jersey,7039,77,18
+Atrium Post Acute Care,Livingston,New Jersey,7039,97,20
+Brakley Park senior care facility,Lopatcong Township,New Jersey,8865,122,22
+Lyons Campus of the VA New Jersey Health Care System,Lyons,New Jersey,7939,61,10
+Southern Ocean Center rehabilitation center,Manahawkin,New Jersey,8050,69,10
+AristaCare at Manchester rehabilitation center,Manchester,New Jersey,8759,103,14
+CareOne at Evesham nursing home,Marlton,New Jersey,8053,66,14
+Madison Center nursing home,Matawan,New Jersey,7747,79,11
+Maywood Center for Health and Rehabilitation,Maywood,New Jersey,7607,90,19
+Abingdon Care and Rehabilitation Center,Middlebrook,New Jersey,8812,108,22
+Millville Center nursing home,Millville,New Jersey,8332,84,9
+PowerBack Rehabilitation,Moorestown,New Jersey,8057,82,7
+CareOne at Moorestown nursing home,Moorestown,New Jersey,8057,100,12
+Cambridge Rehabilitation and Healthcare Center,Moorestown,New Jersey,8057,67,12
+Virtua Health and Rehabilitation Center at Mt. Holly,Mount Holly,New Jersey,8048,91,14
+ManorCare Health Services nursing home,Mountainside,New Jersey,7092,68,10
+CareOne at New Milford nursing home,New Milford,New Jersey,7646,163,29
+"Sinai Post-Acute, Nursing and Rehab Center",Newark,New Jersey,7103,105,16
+New Community Extended Care Facility,Newark,New Jersey,7103,66,12
+Homestead Rehabilitation and Health Care Center,Newton,New Jersey,7860,64,17
+The Harborage nursing home,North Bergen,New Jersey,7047,182,31
+HudsonView Center for Rehab and Healthcare,North Bergen,New Jersey,7047,134,34
+Victoria Manor nursing home,North Cape May,New Jersey,8204,63,14
+Holland Christian Home senior community,North Haledon,New Jersey,7508,63,9
+Meadowview Nursing and Rehabilitation Center,Northfield,New Jersey,8225,59,2
+Buckingham Care and Rehabilitation Center,Norwood,New Jersey,7648,115,14
+Oakland Rehabilitation and Healthcare Center,Oakland,New Jersey,7436,141,41
+CareOne at Oradell senior care,Oradell,New Jersey,7649,77,22
+White House Healthcare & Rehabilitation Center,Orange,New Jersey,7050,60,0
+Alaris Health at St. Mary's rehabilitation facility,Orange,New Jersey,7050,72,12
+Warren Haven Rehabilitation and Nursing Center,Oxford,New Jersey,7863,61,8
+Paramus Veterans Memorial Home,Paramus,New Jersey,7652,264,71
+Brookdale Paramus assisted living facility,Paramus,New Jersey,7652,136,24
+Bergen New Bridge Medical Center nursing home,Paramus,New Jersey,7652,233,26
+CareOne at Ridgewood Avenue nursing home,Paramus,New Jersey,7652,139,22
+Sunrise Senior Living,Paramus,New Jersey,7652,67,8
+CareOne at The Cupola assisted living,Paramus,New Jersey,7652,57,14
+CareOne at The Cupola long-term care,Paramus,New Jersey,7652,60,14
+Dellridge Health and Rehabilitation Center,Paramus,New Jersey,7652,101,16
+Harmony Village At CareOne Paramus assisted living,Paramus,New Jersey,7652,63,10
+Atrium at Park Ridge Post-Acute Care,Park Ridge,New Jersey,7656,117,29
+Complete Care at Hamilton Plaza nursing home,Passaic,New Jersey,7055,53,8
+Aspen Hills Healthcare Center,Pemberton,New Jersey,8068,84,0
+Lopatcong Center nursing home,Phillipsburg,New Jersey,8865,101,13
+Country Arch Care Center nursing home,Pittstown,New Jersey,8867,64,9
+JFK Hartwyck at Cedar Brook rehabilitation facility,Plainfield,New Jersey,7060,86,11
+AristaCare at Norwood Terrace rehabilitation facility,Plainfield,New Jersey,7060,57,15
+The Woodlands assisted living facility,Plainfield,New Jersey,7060,62,18
+Crest Pointe Rehabilitation & Healthcare Center,Point Pleasant,New Jersey,8742,81,9
+Family of Caring at Ridgewood nursing home,Ridgewood,New Jersey,7450,67,15
+Ridgewood Center nursing home,Ridgewood,New Jersey,7450,83,10
+Jewish Home Assisted Living,River Vale,New Jersey,7675,65,6
+Alaris Health at Rochelle Park nursing home,Rochelle Park,New Jersey,7662,77,14
+Bergen County Health Care Center,Rockleigh,New Jersey,7647,75,8
+The Jewish Home at Rockleigh nursing home,Rockleigh ,New Jersey,7647,114,20
+Alaris Health at The Fountains nursing home,Secaucus,New Jersey,7094,62,5
+"Regency Jewish Heritage Post-Acute, Rehab and Nursing Center",Somerset,New Jersey,8873,74,23
+Parker at Somerset nursing home,Somerset,New Jersey,8873,59,5
+CareOne at Teaneck nursing home,Teaneck,New Jersey,7666,72,25
+Hampton Ridge Healthcare and Rehabilitation Center,Toms River,New Jersey,8755,121,14
+Complete Care at Bey Lea rehabilitation facility,Toms River,New Jersey,8753,87,13
+Rose Garden Nursing and Rehabilitation Center,Toms River,New Jersey,8753,65,5
+Complete Care at Green Acres rehabilitation facility,Toms River,New Jersey,8755,87,11
+Water's Edge Healthcare and Rehabilitation Center,Trenton,New Jersey,8611,146,26
+Providence Nursing and Rehabilitation Center,Trenton,New Jersey,8618,60,16
+South Mountain Healthcare and Rehabilitation Center,Union,New Jersey,7088,81,13
+Cornell Care and Rehabilitation Center,Union,New Jersey,7083,59,12
+Manhattanview Nursing Home,Union City,New Jersey,7087,57,17
+Voorhees Center nursing home,Voorhees,New Jersey,8043,159,26
+Lions Gate assisted living facility,Voorhees,New Jersey,8043,71,11
+Preakness Healthcare Center nursing home,Wayne,New Jersey,7470,160,17
+Atrium Post Acute Care,Wayne,New Jersey,7470,117,33
+Atrium Post Acute Care of Wayneview,Wayne,New Jersey,7470,88,20
+Llanfair House Care and Rehabilitation Center,Wayne,New Jersey,7470,83,20
+CareOne nursing home,Wayne ,New Jersey,7470,60,16
+Hackensack Meridian Health West Caldwell Care Center nursing home,West Caldwell,New Jersey,7006,125,23
+Milford Manor nursing home,West Milford,New Jersey,7480,66,18
+Daughters of Israel nursing home,West Orange,New Jersey,7052,93,16
+Stratford Manor Rehabilitation and Care Center,West Orange,New Jersey,7052,71,16
+The Cliffs At Eagle Rock assisted living facility,West Orange,New Jersey,7052,65,14
+Complete Care at Summit Ridge nursing home,West Orange,New Jersey,7052,53,15
+Genesis at Westfield Center nursing home,Westfield,New Jersey,7090,90,17
+CareOne at Valley nursing home,Westwood,New Jersey,7675,86,16
+AristaCare at Whiting rehabilitation facility,Whiting,New Jersey,8759,95,8
+Woodcliff Lake Health & Rehabilitation Center,Woodcliff Lake,New Jersey,7677,69,14
+Christian Health Care Center,Wyckoff,New Jersey,7481,176,45
+Parker Jewish Institute for Health Care & Rehabilitation,Queens,New York,11040,75,75
+Signature HealthCARE,Chapel Hill,North Carolina,27514,56,12
+Springbrook Nursing and Rehabilitation Center,Clayton,North Carolina,27520,79,14
+Five Oaks Rehab,Concord,North Carolina,28027,101,10
+Durham Nursing and Rehabilitation Center,Durham,North Carolina,27705,111,14
+PruittHealth - Carolina Point nursing home,Durham,North Carolina,27705,109,16
+Treyburn Rehabilitation Center,Durham,North Carolina,27712,74,8
+Cherry Springs Village assisted living,Hendersonville,North Carolina,28792,57,9
+The Laurels of Hendersonville nursing home,Hendersonville,North Carolina,28792,63,3
+Wellington Rehabilitation and Healthcare,Knightdale,North Carolina,27545,57,11
+Universal Health Lillington nursing home,Lillington,North Carolina,27546,69,4
+Louisburg Healthcare & Rehabilitation Center,Louisburg,North Carolina,27549,69,18
+Monroe Rehab Center nursing home,Monroe,North Carolina,28112,67,4
+Grace Heights Health & Rehab Center,Morganton,North Carolina,28655,71,8
+Pinehurst Healthcare & Rehabilitation Center,Pinehurst,North Carolina,28374,80,3
+The Laurels of Chatham skilled nursing and rehabilitation,Pittsboro,North Carolina,27312,105,8
+The Citadel at Salisbury nursing home,Salisbury,North Carolina,28147,154,17
+Pebble Creek Healthcare Center nursing home,Akron,Ohio,44319,78,0
+Altercare Alliance nursing home,Alliance,Ohio,44601,68,18
+Saybrook Landing rehabilitation facility,Ashtabula,Ohio,44004,67,0
+Jackson Ridge Rehabilitation and Care,Canal Fulton,Ohio,44614,62,0
+Burlington House assisted living,Cincinnati,Ohio,45231,84,0
+Mercy Health West Park senior living,Cincinnati,Ohio,45238,72,0
+CareCore at Meadows Health Care Center,Cincinnati,Ohio,45240,59,0
+Westpark Neurology and Rehabilitation Center,Cleveland,Ohio,44135,91,0
+St. Mary's Alzheimer's Center nursing home,Columbiana,Ohio,44408,75,0
+Wesley Glen Retirement Community,Columbus,Ohio,43214,83,0
+Scioto Community nursing home,Columbus,Ohio,43207,71,0
+Spring Meadows nursing home,Holland,Ohio,43528,71,0
+The Meadows of Leipsic nursing home,Leipsic,Ohio,45856,52,0
+Heartland rehabilitation facility,Marietta,Ohio,45750,50,0
+Meadow Wind Health Care Center,Massillon,Ohio,44646,55,0
+Briar Hill Health Care Residence nursing home,Middlefield,Ohio,44062,83,13
+Koester Pavilion nursing home and rehabilitation,Troy,Ohio,45373,61,13
+Windsor House at Omni Manor nursing home,Youngstown,Ohio,44509,61,0
+Grace Living Center nursing home,Mangum,Oklahoma,73554,52,5
+Grace Living Center nursing home,Norman,Oklahoma,73072,82,10
+PARCway Post Acute Recovery,Oklahoma City,Oklahoma,73112,75,4
+Sunset Estates nursing home,Purcell,Oklahoma,73080,51,2
+Healthcare at Foster Creek assisted living facility,Portland,Oregon,97236,117,28
+Broomall Rehabilitation and Nursing Center,Broomall,Pennsylvania,19008,144,25
+Mennonite Home continuing care retirement community,Lancaster,Pennsylvania,17601,56,0
+Gracedale Nursing Home,Nazareth,Pennsylvania,18064,80,19
+Kane Community Assisted Living Center - Glen Hazel,Pittsburgh,Pennsylvania,15207,106,12
+Mount St. Rita nursing home,Cumberland,Rhode Island,2864,65,15
+Orchard View Manor nursing home,East Providence,Rhode Island,2915,140,40
+Stillwater Assisted Living & Skilled Nursing,Greenville,Rhode Island,2828,60,10
+Scalabrini Villa skilled nursing and rehabilitation center,North Kingstown,Rhode Island,2852,65,15
+Golden Crest skilled nursing facility,North Providence,Rhode Island,2904,95,30
+Darlington Memory Lane,North Providence,Rhode Island,2904,55,5
+Oak Hill Health & Rehabilitation Center,Pawtucket,Rhode Island,2860,80,20
+Berkshire Place Nursing & Rehabilitation Center,Pittsfield,Rhode Island,2908,130,10
+Summit Commons Rehabilitation & Health Care Center,Providence,Rhode Island,2906,105,15
+Charlesgate Nursing Center ,Providence,Rhode Island,2904,55,1
+West Shore Health Center nursing home,Warwick,Rhode Island,2889,90,15
+Oakland Grove Health Care Center,Woonsocket,Rhode Island,2895,65,15
+Woonsocket Health & Rehabilitation Centre,Woonsocket,Rhode Island,2895,65,5
+Midlands Health and Rehabilitation Center,Columbia,South Carolina,29223,82,8
+Pruitt Health - Blythewood nursing home,Columbia,South Carolina,29229,54,1
+Carlyle Senior Care,Florence,South Carolina,29501,71,3
+Greer Rehabilitation and Healthcare Center,Greer,South Carolina,29651,67,9
+Heartland Health and Rehabilitation Care Center,Hanahan,South Carolina,29406,90,9
+Windsor Manor Nursing Home,Manning,South Carolina,29102,55,7
+Life Care Center nursing home,Athens,Tennessee,37371,93,1
+Signature HealthCARE of Putnam County assisted living,Cookeville,Tennessee,38506,51,5
+Gallatin Center for Rehabilitation and Healing,Gallatin,Tennessee,37066,162,23
+Briarcliff Skilled Nursing Center,Carthage,Texas,75633,74,6
+Skyline Nursing Center,Dallas,Texas,75233,58,3
+Brentwood Place One nursing home,Dallas,Texas,75227,91,9
+Veranda Rehabilitation and Healthcare,Harlingen,Texas,78550,91,10
+Windsor Atrium nursing home,Harlingen,Texas,78550,79,8
+Paris Healthcare Nursing Home,Paris,Texas,75460,59,3
+Trinity Cary Center skilled nursing,Round Rock,Texas,78664,70,0
+Southeast Nursing and Rehabilitation Center,San Antonio,Texas,78222,103,18
+The Resort at Texas City nursing home,Texas City,Texas,77590,83,0
+Birchwood Terrace Rehab and Healthcare,Burlington,Vermont,5408,88,17
+Burlington Health and Rehabilitation,Burlington,Vermont,5401,71,10
+Accordius Health nursing home,Harrisonburg,Virginia,22801,106,15
+Skyview Springs Rehab and Nursing Center,Luray,Virginia,22835,59,0
+Canterbury Rehabilitation and Healthcare,Richmond,Virginia,23238,136,50
+Sunrise View Assisted Living,Everett,Washington,98203,69,0
+Regency Canyon Lakes rehabilitation and nursing,Kennewick,Washington,99337,52,0
+Life Care Center,Kirkland,Washington,98034,128,45
+Life Care Center nursing home,Richland,Washington,99352,93,0
+Eldercare Health and Rehabilitation,Ripley,West Virginia,25271,100,13
+Wayne Nursing & Rehabilitation Center,Wayne,West Virginia,25570,64,7

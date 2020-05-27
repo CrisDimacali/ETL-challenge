@@ -1,0 +1,54 @@
+state,COVID_deaths,pneumonia_deaths,pneumonia_and_COVID_deaths,influenza_deaths,pneumonia_influenzaor_COVID_deaths,total_deaths
+Alabama,190,210,48,0,350,2990
+Alaska,0,0,0,0,0,159
+Arizona,258,334,114,0,474,4165
+Arkansas,43,122,0,0,159,2037
+California,1179,1680,661,0,2200,17288
+Colorado,488,376,237,0,627,3156
+Connecticut,99,15,15,0,99,99
+Delaware,144,72,54,0,162,527
+District of Columbia,104,118,104,0,118,362
+Florida,765,1165,383,0,1557,14315
+Georgia,440,410,209,0,638,4455
+Hawaii,0,18,0,0,30,719
+Idaho,12,28,0,0,50,876
+Illinois,1646,1271,834,0,2084,9023
+Indiana,709,556,280,0,989,4383
+Iowa,188,133,36,0,279,1904
+Kansas,59,109,11,0,147,1701
+Kentucky,110,199,30,0,278,2195
+Louisiana,493,338,239,0,585,2463
+Maine,18,49,0,0,89,1035
+Maryland,1140,610,389,0,1366,4733
+Massachusetts,3104,1438,1119,0,3428,7227
+Michigan,1318,937,623,0,1637,6495
+Minnesota,466,299,130,0,638,3433
+Mississippi,203,216,79,0,336,2051
+Missouri,268,273,94,0,444,3701
+Montana,0,0,0,0,11,449
+Nebraska,50,72,0,0,106,1035
+Nevada,129,186,94,0,223,1618
+New Hampshire,107,95,11,0,170,1002
+New Jersey,3276,2003,1629,0,3652,8427
+New Mexico,121,88,47,0,162,1028
+New York,3223,2016,1464,0,3778,10167
+New York City,4733,2165,1869,77,5037,8905
+North Carolina,40,16,16,0,40,40
+North Dakota,0,14,0,0,27,316
+Ohio,556,476,209,0,825,6589
+Oklahoma,53,120,11,0,163,1406
+Oregon,48,79,0,0,113,1809
+Pennsylvania,2735,1456,1024,0,3170,11377
+Puerto Rico,30,100,0,0,124,740
+Rhode Island,160,81,51,0,181,465
+South Carolina,179,245,61,0,354,3370
+South Dakota,16,24,0,0,36,410
+Tennessee,83,294,10,0,357,4495
+Texas,389,815,161,0,1060,11235
+Utah,40,56,0,0,85,1394
+Vermont,11,0,0,0,17,382
+Virginia,609,384,202,0,796,4790
+Washington,133,203,66,0,278,3303
+West Virginia,24,35,0,0,51,454
+Wisconsin,175,176,16,0,323,3501
+Wyoming,0,10,0,0,11,245

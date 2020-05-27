@@ -1,0 +1,117 @@
+--
+-- PostgreSQL database dump
+--
+
+-- Dumped from database version 11.7
+-- Dumped by pg_dump version 11.7
+
+-- Started on 2020-05-25 20:02:31
+
+SET statement_timeout = 0;
+SET lock_timeout = 0;
+SET idle_in_transaction_session_timeout = 0;
+SET client_encoding = 'UTF8';
+SET standard_conforming_strings = on;
+SELECT pg_catalog.set_config('search_path', '', false);
+SET check_function_bodies = false;
+SET xmloption = content;
+SET client_min_messages = warning;
+SET row_security = off;
+
+SET default_tablespace = '';
+
+SET default_with_oids = false;
+
+--
+-- TOC entry 196 (class 1259 OID 16777)
+-- Name: john_hopkins; Type: TABLE; Schema: public; Owner: postgres
+--
+
+CREATE TABLE public.john_hopkins (
+    state character varying(40),
+    confirmed double precision,
+    deaths double precision,
+    recovered double precision,
+    active double precision,
+    people_tested double precision,
+    people_hospitalized double precision
+);
+
+
+ALTER TABLE public.john_hopkins OWNER TO postgres;
+
+--
+-- TOC entry 2803 (class 0 OID 16777)
+-- Dependencies: 196
+-- Data for Name: john_hopkins; Type: TABLE DATA; Schema: public; Owner: postgres
+--
+
+COPY public.john_hopkins (state, confirmed, deaths, recovered, active, people_tested, people_hospitalized) FROM stdin;
+Alabama	268365	10469	0	257896	3271388	33973
+Alaska	11345	294	8568	4545	726773	261
+American Samoa	0	0	0	0	1873	0
+Arizona	296916	13583	66156	230418	3143680	40766
+Arkansas	111560	2345	67785	51013	1792689	12537
+California	1833427	73742	0	1759685	25160433	39006
+Colorado	529952	27484	73634	439770	2703381	93679
+Connecticut	940155	79582	107815	752758	3589061	203891
+Delaware	171738	5875	61578	112275	853420	2297
+Diamond Princess	1519	0	0	1519	0	0
+District of Columbia	163811	8224	24496	137589	789052	3216
+Florida	1158800	45876	0	1112924	14713034	203058
+Georgia	926323	39075	0	887248	6500635	170561
+Grand Princess	3193	84	0	3109	0	0
+Guam	4545	155	3873	1757	96346	20
+Hawaii	19254	486	16284	7096	1055712	2259
+Idaho	65570	1977	38795	33301	883668	5928
+Illinois	2038238	89842	0	1948396	11278576	37711
+Indiana	643923	38786	0	605137	3756093	57122
+Iowa	298931	6724	126852	182643	1929441	2139
+Kansas	171053	4827	7999	158493	1304702	18091
+Kentucky	174454	8361	61799	118051	2395149	47446
+Louisiana	929062	64124	545117	416511	6070947	13847
+Maine	39690	1797	23307	19682	666914	5719
+Maryland	848156	42720	58074	758599	4307101	163249
+Massachusetts	2117150	128884	0	1988266	10203675	205919
+Michigan	1356363	125517	484164	804577	7609968	24982
+Minnesota	269102	14325	151289	119616	2951437	42561
+Mississippi	254002	10951	114931	131533	2519513	41951
+Missouri	275959	13197	0	262762	3095815	6844
+Montana	14119	473	12033	4824	574281	1910
+Nebraska	194746	2511	0	192235	1171087	0
+Nevada	173926	8422	4840	160764	1651088	0
+New Hampshire	81748	3225	30986	54121	899859	8826
+New Jersey	3911562	248916	398892	3295038	9940602	55579
+New Mexico	128423	5137	32264	96949	2599100	20068
+New York	9761342	769847	1526945	7760514	32423342	2102778
+North Carolina	401661	14853	98716	288092	5085805	3577
+North Dakota	40103	881	20384	21856	1122676	3036
+Northern Mariana Islands	501	62	366	185	51182	0
+Ohio	655841	35440	0	620401	5391173	122270
+Oklahoma	127745	7440	88804	51399	2540011	23375
+Oregon	88965	3496	21703	63766	2090062	19031
+Pennsylvania	1639300	96234	0	1543066	7876854	21988
+Puerto Rico	59835	3059	0	56776	206183	0
+Recovered	0	0	959621	-959621	0	0
+Rhode Island	300891	10763	20118	273778	2403877	31857
+South Carolina	212304	8633	126570	108747	2355225	35294
+South Dakota	90829	806	58284	43143	640853	6663
+Tennessee	407306	7073	208641	235345	6905414	35816
+Texas	1072342	29370	538421	597477	13677437	12533
+Utah	168510	1769	77942	101837	3932578	13921
+Vermont	27659	1543	20269	14412	565653	307
+Virgin Islands	1974	137	1693	641	31112	0
+Virginia	630373	21633	84359	541190	3796192	121941
+Washington	484369	26711	0	457658	6679574	7397
+West Virginia	38284	1484	20086	20817	1645004	767
+Wisconsin	267930	11037	109113	147780	3080999	51869
+Wyoming	18715	217	12362	9158	362383	1887
+\.
+
+
+-- Completed on 2020-05-25 20:02:31
+
+--
+-- PostgreSQL database dump complete
+--
+
